@@ -1,0 +1,14 @@
+.nav-col{
+    background-color: rgb(0, 10, 30);
+}
+.background{
+    background-color: black;
+}
+.cardColor{
+    background-color: rgb(0, 10, 30);
+    color:gray;
+}
+.center{
+    margin: auto;
+    margin-bottom: 5%;
+}
